@@ -11,3 +11,5 @@ resources:
     initial: 0
 -   alias: uptime
     format: integer
+-   alias: test
+    format: string
